@@ -2,7 +2,7 @@
 
 Mementrail Windows client releases and distribution notes.
 
-This public repository is reserved for GitHub Releases. It does not host the application source code or source-code history.
+This public repository is reserved for GitHub Releases. Its branches and commit history contain release metadata only, not application source code or source-code history. Corresponding source archives will be attached to binary releases.
 
 ## Downloads
 
